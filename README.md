@@ -1,5 +1,5 @@
 # [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
-A series of 3 courses offered by Stanford University
+<i>A series of 3 courses offered by Stanford University</i>
 
 #### Course 1: [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models)
 
